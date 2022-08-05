@@ -1,0 +1,76 @@
+.profile-info-name {
+    width: 30%;
+}
+
+
+
+/* --- VIEW RECEIPT PAGE CUSTOM CSS --- */
+.word_receipt_box {
+    color: red;
+    border: 2px solid #333;
+    width: 14%;
+    border-radius: 12px;
+}
+
+.fword_receipt{
+    color: red;
+}
+
+
+
+.after_word_receipt_hr{
+	border-top: 1px solid #333;
+	    margin-top: 0px;
+}
+
+.client_detail_div {
+    border: 2px solid #333;
+    border-radius: 12px;
+	padding-left: 7%;
+}
+
+.table_client_details {
+	width: 35%;
+}
+
+.table_c_db {
+	width: 65;
+}
+
+.receipt_receipt_number {
+    color: red;
+}
+
+.table_receipt_date {
+    /*border: 1px solid #333;  */
+    padding: 5%;
+}
+
+.table_receipt_date_span {
+    font-weight: 900;
+}
+
+.table_for_side_details {
+    margin-top: 10%;
+    margin-left: 13%;
+}
+
+.receipt_item_table_div {
+    margin-top: 0%;
+	    border: 1px solid #333;
+}
+
+.table_items_thead {
+        background: #333;
+    color: #fff;
+}
+html {
+    color: #333 !important;
+  }
+@media print {
+  html {
+    color: #333 !important;
+  }
+}
+
+/* --- VIEW RECEIPT PAGE CUSTOM CSS --- */
